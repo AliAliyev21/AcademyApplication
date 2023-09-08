@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\bin\Debug\net6.0\C#AcademyApp.exe
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\bin\Debug\net6.0\C#AcademyApp.deps.json
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\bin\Debug\net6.0\C#AcademyApp.runtimeconfig.json
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\bin\Debug\net6.0\C#AcademyApp.dll
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\bin\Debug\net6.0\C#AcademyApp.pdb
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\C#AcademyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\C#AcademyApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\C#AcademyApp.AssemblyInfo.cs
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\C#AcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\C#AcademyApp.dll
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\refint\C#AcademyApp.dll
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\C#AcademyApp.pdb
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\C#AcademyApp.genruntimeconfig.cache
+C:\Users\user\source\repos\C#AcademyApp\C#AcademyApp\obj\Debug\net6.0\ref\C#AcademyApp.dll
